@@ -1,0 +1,60 @@
+{
+     
+    "produtos":[
+        {
+            "id": 1,
+            "nome": "Terrifier",
+            "descricao": "Um assassino maníaco decide aterrorizar três jovens em plena noite de Halloween. Para piorar, o criminoso é um palhaço chamado Art que tem um visual completamente assustador: máscara branca, lábios pintados de preto e dentes afiados.",
+            "direcao": "Damien Leone",
+            "genero": "terror",
+            "categoria_id": 1,
+            "preco": 25.50
+
+        },
+        {
+            "id":2,
+            "nome":"Smile",
+            "descricao": "Depois que uma de suas pacientes morre de uma maneira trágica no consultório, uma psiquiatra começa a experimentar ocorrências bizarras.",
+            "direcao":"PARKER FINN",
+            "genero":"terror",
+            "preco":15.00,
+            "categoria_id":2
+        },
+        {
+            "id":3,
+            "nome":"HALLOWEEN ENDS - O ACERTO DE CONTAS FINAL",
+            "descricao": "Último filme da franquia Halloween. Após um período de paz, Laurie voltará para combater o mal de uma vez por todas depois que uma onda de violência e maldade alastra a cidade.",
+            "genero":"terror",
+            "direcao": "DAVID GORDON GREEN",
+            "preco":10.00,
+            "categoria_id":3
+        },
+        {
+            "id":4,
+            "nome":"Dragon Ball Super: Super Hero",
+            "descricao": "Em Dragon Ball Super: Super Herói, Goku e Vegeta continuam seu treinamento sob Whis, agora acompanhado por Broly para ajudá-lo a controlar sua raiva. Enquanto isso, na Terra, o Exército Red Ribbon é revivido e liderado pelo Comandante Magenta e o Oficial Carmine. Os dois recrutam o Dr. Hedo para se vingar contra Piccolo e Gohan. Sob a orientação de Hedo, o Exército cria dois novos andróides, Gamma 1 e Gamma 2. Para atrair Gohan para uma armadilha, Magenta decide sequestrar sua filha Pan. Gohan descobre sobre o plano e lança um ataque em grande escala na base ao lado de Piccolo, que usou as Esferas do Dragão para obter uma nova forma apelidada de 'Orange Piccolo'. Enquanto isso, o Exército Red Ribbon está preparando outra arma para batalhar contra Gohan, o novo androide chamado Cell Max, que promete acabar com toda família de Goku. Em uma batalha para salvar Pan, Gohan pode se transformar em uma forma ainda mais poderosa que o Ultimate.",
+            "direcao": "AKIRA TORIYAMA",
+            "genero":"Anime",
+            "preco":30.00,
+            "categoria_id":4
+        },
+        {
+            "id":5,
+            "nome":"ONE PIECE FILM - RED",
+            "descricao": "Pela primeira vez, Uta, a cantora mais amada do mundo, se revelará ao mundo inteiro em um show ao vivo. A voz que o mundo inteiro estava esperando está prestes a soar.",
+            "direcao": "GORO TANIGUCHI",
+            "genero":"Anime",
+            "preco":35.00,
+            "categoria_id":5
+        },
+        {
+            "id":6,
+            "nome":"Black Panther: Wakanda Forever",
+            "descricao": "Pantera Negra: Wakanda Para Sempre é a continuação do longa Pantera Negra, da Marvel, dirigido por Ryan Coogler e produzido por Kevin Feige. No filme, o mundo de Wakanda se expande. Após a morte do ator de T'Challa (Chadwick Boseman) o foco de Wakanda Para Sempre são os personagens em volta do Pantera Negra. Rainha Ramonda (Angela Bassett), Shuri (Letitia Wright), M'Baku (Winston Duke), Okoye (Danai Gurira) e as Dora Milage lutam para proteger a nação fragilizada de outros países após a morte de T'Challa. Enquanto o povo de Wakanda se esforça para continuar em frente neste novo capítulo, a família e amigos do falecido rei precisam se unir com a ajuda de Nakia (Lupita Nyong'o), integrante dos Cães de Guerra, e Everett Ross (Martin Freeman). Em meio a isso tudo, Wakanda ainda terá que aprender a conviver com a nação debaixo d'água, Talokan, e seu rei Namor (Tenoch Huerta).",
+            "direcao": "RYAN COOGLER",
+            "genero":" Ação, Aventura, Fantasia",
+            "preco":60.00,
+            "categoria_id":6
+        }
+    ]
+}
