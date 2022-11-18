@@ -4,7 +4,7 @@
 
 <p>O trabalho abaixo tem como o intuito de estabelecer uma API REST utilizando JSON SERVER e explorando os protocolos de métodos HTTP. O repositório, trata-se dos dados de uma plataforma onde o usuário poderá comprar ingressos para o cinema. Além disso, a empresa não é só para filmes mas também encontra produtos relacionados aos filmes e o funcionamento de uma lanchonete. Isso dá mais autonomia e variedade ao usuário!</p>
 
-<h3>O projeto foi intitulado  <a href="http://localhost:3000">CineHollyood</a>- ele possui três rotas ( filmes, produtos & food), com, no mínimo, 4 atributos cada, e o repositório foi hospedado no site <a href=" https://dashboard.render.com/">Render</a>.</h3>   
+<h3>O projeto foi intitulado  <a href="http://localhost:3000">CineHollyood</a>- ele possui três rotas ( filmes, produtos & food), com, no mínimo, 4 atributos cada, e o repositório foi hospedado no site <a href="https://dashboard.render.com">Render</a>.</h3>   
 
 <h2>Rotas e dados:</h2>
 Veja abaixo, como foi estruturada a API com dados mokados:
