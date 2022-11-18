@@ -1,0 +1,8 @@
+{
+    "name": "JSever",
+    "version": "1.0.0",
+    "main": "sever.js",
+    "repository": "https://github.com/MariDutra/JSever",
+    "author": "Maria Dutra <maria.dutra2305@gmail.com>",
+    "license": "MIT"
+  }
