@@ -1,6 +1,5 @@
 {
-     
-    "produtos":[
+    "filmes": [
         {
             "id": 1,
             "nome": "Terrifier",
@@ -9,52 +8,146 @@
             "genero": "terror",
             "categoria_id": 1,
             "preco": 25.50
-
         },
         {
-            "id":2,
-            "nome":"Smile",
+            "id": 2,
+            "nome": "Smile",
             "descricao": "Depois que uma de suas pacientes morre de uma maneira trágica no consultório, uma psiquiatra começa a experimentar ocorrências bizarras.",
-            "direcao":"PARKER FINN",
-            "genero":"terror",
-            "preco":15.00,
-            "categoria_id":2
+            "direcao": "PARKER FINN",
+            "genero": "terror",
+            "preco": 15.00,
+            "categoria_id": 2
         },
         {
-            "id":3,
-            "nome":"HALLOWEEN ENDS - O ACERTO DE CONTAS FINAL",
+            "id": 3,
+            "nome": "HALLOWEEN ENDS - O ACERTO DE CONTAS FINAL",
             "descricao": "Último filme da franquia Halloween. Após um período de paz, Laurie voltará para combater o mal de uma vez por todas depois que uma onda de violência e maldade alastra a cidade.",
-            "genero":"terror",
+            "genero": "terror",
             "direcao": "DAVID GORDON GREEN",
-            "preco":10.00,
-            "categoria_id":3
+            "preco": 10.00,
+            "categoria_id": 3
         },
         {
-            "id":4,
-            "nome":"Dragon Ball Super: Super Hero",
+            "id": 4,
+            "nome": "Dragon Ball Super: Super Hero",
             "descricao": "Em Dragon Ball Super: Super Herói, Goku e Vegeta continuam seu treinamento sob Whis, agora acompanhado por Broly para ajudá-lo a controlar sua raiva. Enquanto isso, na Terra, o Exército Red Ribbon é revivido e liderado pelo Comandante Magenta e o Oficial Carmine. Os dois recrutam o Dr. Hedo para se vingar contra Piccolo e Gohan. Sob a orientação de Hedo, o Exército cria dois novos andróides, Gamma 1 e Gamma 2. Para atrair Gohan para uma armadilha, Magenta decide sequestrar sua filha Pan. Gohan descobre sobre o plano e lança um ataque em grande escala na base ao lado de Piccolo, que usou as Esferas do Dragão para obter uma nova forma apelidada de 'Orange Piccolo'. Enquanto isso, o Exército Red Ribbon está preparando outra arma para batalhar contra Gohan, o novo androide chamado Cell Max, que promete acabar com toda família de Goku. Em uma batalha para salvar Pan, Gohan pode se transformar em uma forma ainda mais poderosa que o Ultimate",
             "direcao": "AKIRA TORIYAMA",
-            "genero":"Anime",
-            "preco":30.00,
-            "categoria_id":4
+            "genero": "Anime",
+            "preco": 30.00,
+            "categoria_id": 4
         },
         {
-            "id":5,
-            "nome":"ONE PIECE FILM - RED",
+            "id": 5,
+            "nome": "ONE PIECE FILM - RED",
             "descricao": "Pela primeira vez, Uta, a cantora mais amada do mundo, se revelará ao mundo inteiro em um show ao vivo. A voz que o mundo inteiro estava esperando está prestes a soar.",
             "direcao": "GORO TANIGUCHI",
-            "genero":"Anime",
-            "preco":35.00,
-            "categoria_id":5
+            "genero": "Anime",
+            "preco": 35.00,
+            "categoria_id": 5
         },
         {
-            "id":6,
-            "nome":"Black Panther: Wakanda Forever",
+            "id": 6,
+            "nome": "Black Panther: Wakanda Forever",
             "descricao": "Pantera Negra: Wakanda Para Sempre é a continuação do longa Pantera Negra, da Marvel, dirigido por Ryan Coogler e produzido por Kevin Feige. No filme, o mundo de Wakanda se expande. Após a morte do ator de T'Challa (Chadwick Boseman) o foco de Wakanda Para Sempre são os personagens em volta do Pantera Negra. Rainha Ramonda (Angela Bassett), Shuri (Letitia Wright), M'Baku (Winston Duke), Okoye (Danai Gurira) e as Dora Milage lutam para proteger a nação fragilizada de outros países após a morte de T'Challa. Enquanto o povo de Wakanda se esforça para continuar em frente neste novo capítulo, a família e amigos do falecido rei precisam se unir com a ajuda de Nakia (Lupita Nyong'o), integrante dos Cães de Guerra, e Everett Ross (Martin Freeman). Em meio a isso tudo, Wakanda ainda terá que aprender a conviver com a nação debaixo d'água, Talokan, e seu rei Namor (Tenoch Huerta).",
             "direcao": "RYAN COOGLER",
-            "genero":" Ação, Aventura, Fantasia",
-            "preco":60.00,
-            "categoria_id":6
+            "genero": " Ação, Aventura, Fantasia",
+            "preco": 60.00,
+            "categoria_id": 6
         }
+    ],
+    "produtos": [
+        {
+            "id": 1,
+            "nome": "Camiseta Terrifier",
+            "descricao": "T-shirt de manga curta 100% algodão, jersey simples, 165 g/m², gola redonda de 4 camadas e costuras reforçadas na gola e nos ombros. Costuras laterais. Os designs das nossas t-shirts são baseados em ideias originais/adaptações não oficiais de séries, filmes, videojogos, etc. ou qualquer tipo de ficção.",
+            "tamanho": "P/M/G/GG",
+            "categoria_genero": "camiseta/terror",
+            "categoria_id": 1,
+            "preco": 25.50
+        },
+        {
+            "id": 2,
+            "nome": "Caneca Smile",
+            "descricao": "Capacidade até 320ml, Resistente a microondas e lava-louças,",
+            "tamanho": " Altura: 10cm e Largura (contando com a alça) 12cm.",
+            "categoria_genero": "Caneca/terror",
+            "preco": 15.00,
+            "categoria_id": 2
+        },
+        {
+            "id": 3,
+            "nome": "Quadro Decorativo HALLOWEEN ENDS - O ACERTO DE CONTAS FINAL",
+            "descricao": "Quadro decorativo HALLOWEEN ENDS - O ACERTO DE CONTAS FINAL",
+            "categoria_genero": "Quadro decorativo/terror",
+            "tamanho": "30x40cm, 40x60cm, 60x100cm",
+            "preco": 189.75,
+            "categoria_id": 3
+        },
+        {
+            "id": 4,
+            "nome": "Mochila Dragon Ball Super: Super Hero",
+            "descricao": "Confeccionada em E.V.A, Revestida externamente em poliéster de alta qualidade Com estampas termoformadas em 3D, Impermeável e de fácil limpeza, Leve e de alta resistência, Possui fecho por zíper e divisória interna em poliéster, Alça para as mãos e alça guia infantil",
+            "tamanho": "Medidas (L x A x C): 20 x 25 x 10 cm",
+            "categoria_genero": "Mochila/Anime",
+            "preco": 249.75,
+            "categoria_id": 4
+        },
+        {
+            "id": 5,
+            "nome": "Pulseira ONE PIECE FILM - RED",
+            "descricao": "Colar Portgas D. Ace do anime e mangá de sucesso One Piece. Alta qualidade em material. Feito em resina e metal. Acompanha caixa para guardar. (os desenhos da caixa podem sofrer alterações)Ideal para fã e para completar o seu cosplay.",
+            "categoria_genero": "Acessórios/Anime",
+            "tamanho":"Comprimento total do colar: 55 cm, Bolinhas vermelhas: 0,5 cm, Pingentes: 2,5 cm",
+            "preco": 35.00,
+            "categoria_id": 5
+        },
+        {
+            "id": 6,
+            "nome": "Casaco Black Panther: Wakanda Forever",
+            "descricao": "Moletom gola redonda com design tribal roxo Wakanda Forever Pantera Negra",
+            "tamanho": "P/M/G/GG",
+            "categoria_genero": "Casaco/Heroi",
+            "preco": 100.00,
+            "categoria_id": 6
+        }
+    ],
+    "food": [
+        {
+            "id": 1,
+            "nome": "Hamburguer de Carne",
+            "descricao": "Sanduíche composto por pão tipo brioche, bacon crispy, molho especial, carne 100% bovina, queijo sabor emental, tomate e alface.",
+            "caloria": "767 kcal",
+            "categoria": "Hamburguer",
+            "categoria_id": 1,
+            "preco": 25.50
+        },
+        {
+            "id": 2,
+            "nome": "Pizza de Calabresa",
+            "descricao": " linguiça calabresa, molho de tomate fresco, cebola, azeitona, queijo muçarela e orégano salpicado.",
+            "caloria": "2.000 kcal",
+            "categoria": "Massa",
+            "preco": 15.00,
+            "categoria_id": 2
+        },
+        {
+            "id": 3,
+            "nome": "Milkshake Ovomaltine",
+            "descricao": "Deliciosamente cremoso. O MilkShake Ovomaltine é feito com leite e batido na hora.",
+            "caloria": "548 kcal",
+            "categoria": "Milkshake",
+            "preco": 10.00,
+            "categoria_id": 3
+        },
+        {
+            "id": 4,
+            "nome": "Esfirra",
+            "descricao": "Esfirra recheio de frango desfiado temperado, tomate, cebola.",
+            "caloria": "171 kcal",
+            "categoria": "Massa",
+            "preco": 30.00,
+            "categoria_id": 4
+        }
+       
     ]
 }
