@@ -1,7 +1,7 @@
 {
     "name": "JServer",
     "version": "1.0.0",
-    "main": "sever.js",
+    "main": "server.js",
     "repository": "https://github.com/MariDutra/JSever",
     "author": "Maria Dutra <maria.dutra2305@gmail.com>",
     "license": "MIT"
